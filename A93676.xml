@@ -1,0 +1,505 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The faerie leveller: or, King Charles his leveller descried and deciphered in Queene Elizabeths dayes. By her poet laureat Edmond Spenser, in his unparaleld poeme, entituled, The faerie queene. A lively representation of our times.</title>
+            <title>Faerie queene. Selections</title>
+            <author>Spenser, Edmund, 1552?-1599.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93676</idno>
+            <idno type="STC">Wing S4967</idno>
+            <idno type="STC">Thomason E454_23</idno>
+            <idno type="STC">ESTC R31488</idno>
+            <idno type="EEBO-CITATION">99872292</idno>
+            <idno type="PROQUEST">99872292</idno>
+            <idno type="VID">162025</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93676)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162025)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E454[23])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The faerie leveller: or, King Charles his leveller descried and deciphered in Queene Elizabeths dayes. By her poet laureat Edmond Spenser, in his unparaleld poeme, entituled, The faerie queene. A lively representation of our times.</title>
+                  <title>Faerie queene. Selections</title>
+                  <author>Spenser, Edmund, 1552?-1599.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed just levell anens the Saints Army,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>bin the yeare of their saintships ungodly revelling for a godly levelling. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>An extract from "The faerie queene", book 5, canto 2, stanzas 29-54.</note>
+                  <note>In verse.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "July 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Cromwell, Oliver, 1599-1658.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162025:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 49 -->
+            <p>THE FAERIE LEVELLER: OR, King CHARLES his Leveller deſcri<g ref="char:EOLhyphen"/>ed and deciphered in Queene ELIZA<g ref="char:EOLhyphen"/>BETHS dayes.</p>
+            <p>By her Poet Laureat <hi>Edmond Spenſer,</hi> in his unparaleld Poeme, entituled, THE FAERIE QVEENE. A lively repreſentation of our times.</p>
+            <q>
+               <l>
+                  <hi>Anagram:</hi>
+               </l>
+               <l>Parliaments Army.</l>
+               <l>Paritie mar'sal men.</l>
+            </q>
+            <p>Printed juſt levell anens the Saints Army: in the yeare of their Saintſhips ungodly Revelling for a godly Levelling. 1648.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:162025:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 50 -->
+            <pb n="3" facs="tcp:162025:2"/>
+            <!-- PDF PAGE 50 -->
+            <head>A neceſſary Preface opening the Allegory.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Eader, thou art here preſented with a reſplen<g ref="char:EOLhyphen"/>dent Jewell, taken out of a full Cabinets but it not every ones purchaſe: beſides, not of ſo ſpeciall marke or regard there, in ſo great an heape, as here being culled out by it ſelfe, and ſet forth for preſent uſe: ſlight it not, becauſe it is not the publiſhers owne invention: who does eſteeme the Spyders webbe any whit the better, for that it is ſpunne out of her owne Intralls? or like hony the worſe, for that the induſtrious Bee gathers it from Flowers abroad? here is meat out of the Eater, ſweet hony to be found in the carkaſſe of a ſlaine Lyon; do thou but with <hi>Jonathan</hi> taſte of it, and thou ſhalt have thy ſight cleared in ſome remarkable matters, which before thou didſt not diſcerne, or obſerve: thou haſt here plainely diſcovered to publique view, the miſ<g ref="char:EOLhyphen"/>chievous condition, the malicious dipoſition, the preſump<g ref="char:EOLhyphen"/>tuous enterprizes, the tumultuous practiſes; in a word, the dangerous doings of theſe pernitious Sectaries, the confoun<g ref="char:EOLhyphen"/>ders of orders, the movers of Sedition, the diſturbers of Peace, the ſubverters of well-ſettled States (if they be not timely met with and prevented by juſtice) lately riſen up and now raigne<g ref="char:EOLhyphen"/>ing amongſt us, by the name of Levellers; they were diſcryed long agoe in Queene <hi>Elizabeths</hi> dayes, and then graphically deſcribed by the Prince of Engliſh Poets <hi>Edmund Spenſer,</hi> whoſe verſes then propheticall are now become hiſtoricall in our dayes, I have now reviſed, and newly publiſhed them for the undeceiving of ſimple people, too apt to be induced into an high conceipt and overweening opinion of ſuch Decei<g ref="char:EOLhyphen"/>vers, and too ready to be ſeduced by their ſpecious pretences of reducing all to a juſt equality, and reſtoring all to their rights and libertie: whereas on the contrary their endeavour is evi<g ref="char:EOLhyphen"/>dent
+<pb n="4" facs="tcp:162025:3"/>
+               <!-- PDF PAGE 51 -->to take away every mans propriety, and to bring all under ſlavery to themſelves. The Booke out of which this fragment is taken (called the <hi>Faery Queene)</hi> is altogether Allegoricall, and needes a little explanation: the drift and intention of the Author in it, is to ſet forth a compleat Gen<g ref="char:EOLhyphen"/>tleman, accompliſht with all vertues adorning a truly noble Perſon. The firſt Booke containes the Legend of Juſtice, the moſt univerſall vertue. In the ſecond Canto <hi>Arthegall</hi> the Champion of Juſtice, with the aſſiſtance of <hi>Talus</hi> his Groome betokening execution of Law, having overcome all illegall arbi<g ref="char:EOLhyphen"/>trary oppreſſive power; under the perſon of <hi>Pollente,</hi> a bar<g ref="char:EOLhyphen"/>barous <hi>Saracen,</hi> ſtrengthened by his Daughter <hi>Munera</hi> im<g ref="char:EOLhyphen"/>porting bribes and taxes: He proceeds to ſuppreſſe the Gyant Ring leader to the faction of Levellers, or applying all to theſe times; I ſuppoſe I may briefly give you this key of the work.</p>
+            <list>
+               <item>
+                  <hi>Arthegall Prince of juſtice.</hi> King Charles.</item>
+               <item>
+                  <hi>Talus his Executioner with his yron ſlayle.</hi> The Kings for<g ref="char:EOLhyphen"/>ces, or Gregory.</item>
+               <item>
+                  <hi>Pollente an oppreſſing Saracen.</hi> The prevalent over awing Faction in the two Houſes.</item>
+               <item>
+                  <hi>Munera his aſſiſtant.</hi> The intolerable Tax-raiſers, the Coun<g ref="char:EOLhyphen"/>trey Committees Sequeſtrators and Excize-men: Theſe muſt firſt be apprehended and brought to juſtice, ere the Army be quelled.</item>
+               <item>
+                  <p>
+                     <hi>The Gyant Leveller.</hi> Col. Oliver Cromwell, L. G. of the Sts. Army: the Letters of whoſe name fall into this Anagram.</p>
+                  <p>
+                     <hi>Oliver Cromewell. Com' our vil' Leveller.</hi>
+                  </p>
+                  <p>On the conſtant report of whoſe death, take for an Epitaph that of the Poet. — <hi>Mors Sceptra ligonibus aequat.</hi>
+                  </p>
+                  <q>
+                     <l>Death which the Scepter levells with the ſpide,</l>
+                     <l>His fellow levellers Cromwells Grave hath made.</l>
+                  </q>
+                  <p>So I diſmiſſe him with that of the Traytor <hi>Judas,</hi> Act 1.25. <hi>who by tranſgreſſion fell, that he might go to his owne place.</hi> And his complices with <hi>Thomas Sternehold,</hi> verſion of the 10. v. of the 3. <hi>Pſalme.</hi>
+                  </p>
+                  <q>
+                     <l>Deſtroy their falſe conſpiracies, that they may come to naught<g ref="char:punc">▪</g>
+                     </l>
+                     <l>Subvert them in their heapes of ſinne, that have rebellian wrought.</l>
+                  </q>
+               </item>
+            </list>
+            <p>There followeth a briefe introductory tranſition from the foregoing to the enſuing part of the Canto.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb n="5" facs="tcp:162025:3"/>
+            <!-- PDF PAGE 51 -->
+            <head>THE FAERIE LEVELLER.</head>
+            <q>
+               <l>Arthegall <hi>with his Groome</hi> Talus</l>
+               <l>
+                  <hi>having</hi> Pollente <hi>quel'd:</hi>
+               </l>
+               <l>
+                  <hi>And drown'd his Daughter</hi> Munera,</l>
+               <l>
+                  <hi>they on their journey wel'd.</hi>
+               </l>
+            </q>
+            <lg>
+               <l>
+                  <seg rend="decorInit">I</seg>N which they meaſur'd mickle weary way,</l>
+               <l>Till that at length nigh to the Sea they drew;</l>
+               <l>By which as they did travaile on a day,</l>
+               <l>They ſaw before them far as they could view,</l>
+               <l>Full many people gathered in a crew,</l>
+               <l>Whoſe great aſſembly they did much admire;</l>
+               <l>For never there the like reſort they knew:</l>
+               <l>So towards them they Coaſted to enquire</l>
+               <l>What thing ſo many Nations met, did there deſire.</l>
+            </lg>
+            <lg>
+               <l>There they beheld a mighty Gyant ſtand</l>
+               <l>Upon a Rock, and holding forth on high</l>
+               <l>An huge great paire of Ballance in his hand;</l>
+               <l>With which he boaſted in his ſurquedry,</l>
+               <l>That all the world he would waigh equally;</l>
+               <l>If ought he had the ſame to counterpoys:</l>
+               <l>For want whereof he waighed vanity;</l>
+               <l>And fil'd his Ballance full of idle toyes:</l>
+               <l>Yet was admired much of Fooles, Women, and Boyes.</l>
+            </lg>
+            <lg>
+               <l>He ſaid, that he would all the earth up take,</l>
+               <l>And all the Sea divided each from either:</l>
+               <l>So would he of the fire one Ballance make,</l>
+               <l>And on<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of th'Ayre, without or wind, or weather:</l>
+               <l>Then would he Ballance Heaven and Hell together,</l>
+               <l>And all that did within them all containe,</l>
+               <l>Of all whoſe waight he would not miſſe a feather;</l>
+               <l>And looke what ſurplus did of each remaine,</l>
+               <l>He would to his owne part reſtore the ſame againe.</l>
+            </lg>
+            <pb n="6" facs="tcp:162025:4"/>
+            <!-- PDF PAGE 52 -->
+            <lg>
+               <l>For why, he ſaid, they all unequall were,</l>
+               <l>And had encroached upon others ſhare.</l>
+               <l>Like as the Sea (which plain he ſhewed there)</l>
+               <l>Had worne the earth: ſo did the fire the Ayre:</l>
+               <l>So all the reſt did others parts impaire.</l>
+               <l>And ſo were Realmes, and Nations run awry:</l>
+               <l>All which he undertooke for to repaire,</l>
+               <l>In ſort as they were formed anciently:</l>
+               <l>And all things would reduce to equallity.</l>
+            </lg>
+            <lg>
+               <l>Therefore the vulgar did about him flocke,</l>
+               <l>And cluſter thick unto his leaſings vaine:</l>
+               <l>(Like fooliſh Flies about a hony crocke)</l>
+               <l>In hope by him great benefit to gaine,</l>
+               <l>And uncontrolled freedome to obtaine.</l>
+               <l>All which when <hi>Arthegall</hi> did ſee, and heare</l>
+               <l>How he miſ-led the ſimple peoples traine.</l>
+               <l>In 'ſdainefull wiſe he drew unto him neere,</l>
+               <l>And thus unto him ſpake without regard, or feare.</l>
+            </lg>
+            <q>
+               <lg>
+                  <l>'Thou that preſum'ſt to waigh the world anew;</l>
+                  <l>'And all things to an equall to reſtore.</l>
+                  <l>'Inſtead of right, me ſeemes, great wrong doſt ſhew,</l>
+                  <l>'And far above thy forces pitch to ſore;</l>
+                  <l>'For ere thou limit what is leſſe or more</l>
+                  <l>'In every thing, thou or ghteſt firſt to know</l>
+                  <l>'What was the poyſe of every part of yore:</l>
+                  <l>'And looke then how much it doth overflow,</l>
+                  <l>'Or faile thereof; ſo much is more then juſt to trow.</l>
+               </lg>
+               <lg>
+                  <l>'For at the firſt they all created were</l>
+                  <l>'In goodly meaſure, by their makers might:</l>
+                  <l>'And waighed out in Ballances ſo nere,</l>
+                  <l>'That not a dramme was miſſing of their right.</l>
+                  <l>'The Earth was in the middle Center pight,</l>
+                  <l>'In which it doth unmoveable abide,</l>
+                  <l>'Hem'd in with waters, like a wall in ſight:</l>
+                  <l>'And they with Ayre, that not a drop can ſlide:</l>
+                  <l>'All which the Heavens containe, and in their courſes guide.</l>
+               </lg>
+               <pb n="7" facs="tcp:162025:4"/>
+               <!-- PDF PAGE 52 -->
+               <lg>
+                  <l>'Such Heavenly juſtice doth among them raigne,</l>
+                  <l>'That every one do know their certaine bound,</l>
+                  <l>'In which they do theſe many yeares remaine;</l>
+                  <l>'And 'mongſt them all no change hath yet beene found:</l>
+                  <l>'But if thou now ſhouldſt waigh them new in pound,</l>
+                  <l>'We are not ſure they would ſo long remaine:</l>
+                  <l>'All change is perilous, and all chance unſound:</l>
+                  <l>'Therefore leave off to waigh them all againe,</l>
+                  <l>'Till we may be aſſur'd they ſhall their courſe retaine.</l>
+               </lg>
+               <lg>
+                  <l>'Thou fooliſh Elfe, ſaid then the Gyant wroth,</l>
+                  <l>'Seeſt not how badly all things preſent be?</l>
+                  <l>'And each eſtate quite out of order go'th?</l>
+                  <l>'The Sea it ſelfe, doſt thou not plainely ſee,</l>
+                  <l>'Encroach upon the Land there under thee?</l>
+                  <l>'And th' Earth it ſelfe how dayly its encreas'd</l>
+                  <l>'By all that dying to it turned be?</l>
+                  <l>'Were it not good that wrong were then ſurceaſt,</l>
+                  <l>'And from the moſt that ſone were given to the leaſt?</l>
+               </lg>
+               <lg>
+                  <l>'Therefore I will throw downe thoſe mountaines high,</l>
+                  <l>'And make them levell with the lowly plaine:</l>
+                  <l>'Theſe towring rocks that reach unto the skie</l>
+                  <l>'I will thruſt downe into the deepeſt maine;</l>
+                  <l>'And as they were, them equallize againe:</l>
+                  <l>'Tyrants that make men ſubject to their Law,</l>
+                  <l>'I will ſuppreſſe that they no longer raigne,</l>
+                  <l>'And Lordings curbe that Commons over-aw:</l>
+                  <l>'And all the wealth of rich-men to the poore will draw.</l>
+               </lg>
+               <lg>
+                  <l>'Of things unſeene how canſt thou deeme aright?</l>
+                  <l>'Then anſwered the righteous Arthegall.</l>
+                  <l>'Sith thou miſdeem'ſt ſo much of things in ſight,</l>
+                  <l>'What though the Sea with waves continuall</l>
+                  <l>'Doe eate the Earth? it is no more at all:</l>
+                  <l>'Ne is the Earth the leſſe, or looſeth ought:</l>
+                  <l>'For whatſoever from one place doth fall,</l>
+                  <l>'Is with the tide unto another brought;</l>
+                  <l>'For there is nothing loſt that may be found, if ſought.</l>
+               </lg>
+               <pb n="8" facs="tcp:162025:5"/>
+               <!-- PDF PAGE 53 -->
+               <lg>
+                  <l>'Likewiſe the Earth is not augmented more,</l>
+                  <l>'By all that dienge into it do fade;</l>
+                  <l>'For of the Earth they formed were of yore;</l>
+                  <l>'However gay their bloſſome or their blade</l>
+                  <l>'Doe flouriſh now, they into duſt ſhall vade:</l>
+                  <l>'What wrong then is it, if that when they dye,</l>
+                  <l>'They turne to that whereof they firſt were made?</l>
+                  <l>'All in the power of their great maker lye:</l>
+                  <l>'All Creatures muſt obey the voice of the moſt high.</l>
+               </lg>
+               <lg>
+                  <l>'They live, they dye, like as he doth ordaine:</l>
+                  <l>'Ne ever any asketh reaſon why?</l>
+                  <l>'The hills do not the lowly Dales diſdaine.</l>
+                  <l>'The Dales do not the lofty hills envy.</l>
+                  <l>'He maketh Kings to ſit in Soveraignty.</l>
+                  <l>'He maketh Subjects to their power obey.</l>
+                  <l>'He pulleth downe, he ſetteth up on high.</l>
+                  <l>'He gives to this, from that he takes away:</l>
+                  <l>'For all we have is his; what he liſt do he may.</l>
+               </lg>
+               <lg>
+                  <l>'What ever thing is done, by him is done:</l>
+                  <l>'Ne any may his mighty will withſtand.</l>
+                  <l>'Ne any may his Soveraigne power ſhunne:</l>
+                  <l>'Ne looſe that he hath bound with ſtedfaſt band:</l>
+                  <l>'In vaine therefore doſt thou now take in hand,</l>
+                  <l>'To call to count, or waigh his workes anew,</l>
+                  <l>'Whoſe counſells depth thou canſt not underſtand,</l>
+                  <l>'Sith of things Subject to thy dayly view,</l>
+                  <l>'Thou doſt not know their cauſes nor their courſes dew.</l>
+               </lg>
+               <lg>
+                  <l>'For take thy Ballance, (if thou be ſo wiſe)</l>
+                  <l>'And weigh the winde that under Heaven doth blow;</l>
+                  <l>'Or waigh the light that in the Eaſt doth riſe,</l>
+                  <l>'Or weigh the thought that from mans minde doth flow;</l>
+                  <l>'But if the waight of theſe thou canſt not ſhew,</l>
+                  <l>'Waigh but one word which from thy lips doth fall;</l>
+                  <l>'For how canſt thou thoſe greater ſecrets know?</l>
+                  <l>'That doſt not know the leaſt thing of them all:</l>
+                  <l>'Ill can he rule the great, that cannot reach the ſmall.</l>
+               </lg>
+            </q>
+            <pb n="9" facs="tcp:162025:5"/>
+            <!-- PDF PAGE 53 -->
+            <lg>
+               <l>Therewith the Gyant much abaſhed ſaid,</l>
+               <l>That he of little things made reckoning light;</l>
+               <l>Yet the leaſt word that ever could be laid</l>
+               <l>Within his Ballance, he could waigh aright:</l>
+               <l>Which is, ſaid he, more heavy than in waight,</l>
+               <l>The right or wrong? the falſe or elſe the true?</l>
+               <l>He anſwered that he would try it ſtreight:</l>
+               <l>So he the words into his Ballance threw;</l>
+               <l>But ſtreight the winged words out of his Ballance flew.</l>
+            </lg>
+            <lg>
+               <l>Wroth waxt he then, and ſaid that words were light;</l>
+               <l>Ne would within his Ballance well abide:</l>
+               <l>But he could juſtly waigh the wrong or right:</l>
+               <l>Well then ſaid Arthegall let it be try'd.</l>
+               <l>Firſt in one Ballance, ſet the true aſide:</l>
+               <l>He did ſo firſt, and then the falſe he layd</l>
+               <l>In th'other skale; but ſtill it downe did ſlide,</l>
+               <l>And by no meane could in the waight be ſtayd,</l>
+               <l>For by no meanes the falſe will with the true be waigh'd.</l>
+            </lg>
+            <lg>
+               <l>Now take the right likewiſe ſaid Arthegall,</l>
+               <l>And counterpeiſe the ſame with ſo much wrong:</l>
+               <l>See firſt the right he put into one skale;</l>
+               <l>And then the Gyant ſtrove with puiſſance ſtrong</l>
+               <l>To fill the other skale with ſo much wrong;</l>
+               <l>But all the wrongs that he therein could lay,</l>
+               <l>Might not it peiſe; yet did he labour long,</l>
+               <l>And ſwet, and chaf't, and proved every way;</l>
+               <l>Yet all the wrongs could not a little right downe lay.</l>
+            </lg>
+            <lg>
+               <l>Which when he ſaw he greatly grew in rage,</l>
+               <l>And almoſt would his Ballances have broken:</l>
+               <l>But Arthegall him fairly 'gan aſſwage,</l>
+            </lg>
+            <q>
+               <lg>
+                  <l>'And ſaid, be not upon thy Ballance wroken,</l>
+                  <l>'For they do nought but right or wrong betoken:</l>
+                  <l>'But in the minde the doome of right muſt be;</l>
+                  <l>'And ſo likewiſe of words the which be ſpoken,</l>
+                  <l>'The Eare muſt be the Ballance to decree,</l>
+                  <l>'And judge whether with truth or falſehood they agree.</l>
+               </lg>
+               <pb n="10" facs="tcp:162025:6"/>
+               <!-- PDF PAGE 54 -->
+               <lg>
+                  <l>'But ſet the truth, and ſet the right aſide:</l>
+                  <l>'(For they with wrong, or falſehood will not fare)</l>
+                  <l>'And put two wrongs together to bee try'd,</l>
+                  <l>'Or elſe two falſes of each equall ſhare:</l>
+                  <l>'And then together do them both compare;</l>
+                  <l>'For truth is one, and right is ever one.</l>
+               </lg>
+            </q>
+            <lg>
+               <l>So did he, and then plaine it did appeare</l>
+               <l>Whether of them the greater were attone:</l>
+               <l>But right ſet in the middeſt of the Beame alone.</l>
+            </lg>
+            <lg>
+               <l>But he the right from thence did thruſt away:</l>
+               <l>For it was not the right which he did ſeeke;</l>
+               <l>But rather ſtrove extremities to waigh,</l>
+               <l>Th'one to diminiſh th'other for to eeke;</l>
+               <l>For of the meane he greatly did miſſeleeke;</l>
+               <l>Whom when ſo lewdly-minded Talus found,</l>
+               <l>Approaching nigh unto him cheeke by cheek,</l>
+               <l>He ſhoulderd him from off the higher ground,</l>
+               <l>And downe the Rock him throwing, in the Sea him drownd.</l>
+            </lg>
+            <lg>
+               <l>Like as a Ship which cruell tempeſt drives</l>
+               <l>Upon a Rock with horrible diſmay:</l>
+               <l>Her ſhatterd Ribs in thouſand peeces rives,</l>
+               <l>And ſpoyling all her geares and goodly ray,</l>
+               <l>Does make herſelfe mis-fortunes pitious prey:</l>
+               <l>So downe the Cliffe the wretched Gyant tumbled,</l>
+               <l>His batterd Ballances in peeces lay,</l>
+               <l>His timbred bones all broken rudely rumbled:</l>
+               <l>So was the high aſpiring with huge ruine humbled.</l>
+            </lg>
+            <lg>
+               <l>That when the people who had there about</l>
+               <l>Long wayted, ſaw his ſuddaine deſolation;</l>
+               <l>They gan to gather in tumuluous Rout,</l>
+               <l>And mutining to ſtir up civill Faction;</l>
+               <l>For certaine loſſe of ſo great expectation:</l>
+               <l>For well they hoped to have got great good,</l>
+               <l>And wondrous riches by his innovation:</l>
+               <l>Therefore reſolving to revenge his bloud,</l>
+               <l>They roſe in armes and all in battell order ſtood.</l>
+            </lg>
+            <pb n="11" facs="tcp:162025:6"/>
+            <!-- PDF PAGE 54 -->
+            <lg>
+               <l>Which Lawleſſe multitude him comming to</l>
+               <l>In warlike wiſe, when Arthegall did view,</l>
+               <l>He much was troubled, ne wiſt what to doe,</l>
+               <l>For loath he was his noble hands t'embrew,</l>
+               <l>In the baſe blood of ſuch a Raſcall crew,</l>
+               <l>And otherwiſe if that he ſhould retire,</l>
+               <l>He fear'd leſt they with ſhame would him purſue:</l>
+               <l>Therefore he Talus to them ſent t'enquire</l>
+               <l>The cauſe of their array, and truce for to deſire.</l>
+            </lg>
+            <lg>
+               <l>But ſoone as they him nigh approaching ſpy'd,</l>
+               <l>They 'gan with all their weapons him aſſay,</l>
+               <l>And rudely ſtroke at him on every ſide:</l>
+               <l>Yet nought they could him hurt, ne ought diſmay:</l>
+               <l>But when at them he with his Flayle 'gan lay,</l>
+               <l>He like a ſwarme of flies them overthrew:</l>
+               <l>Ne any of them durſt come in his way,</l>
+               <l>But here and there before his preſence flew,</l>
+               <l>And hid themſelves in holes and Buſhes from his view.</l>
+            </lg>
+            <lg>
+               <l>As when a Faulcon hath with nimble flight</l>
+               <l>Flowne at a fluſh of Ducks fore-by the brooke:</l>
+               <l>The trembling Fowle diſmay'd with dreadfull ſight</l>
+               <l>Of Death the which them allmoſt overtooke,</l>
+               <l>Doe hide themſelves from her aſtonying looke,</l>
+               <l>Amongſt the Flags, and covert round about:</l>
+               <l>When Talus ſaw they all the field forſooke,</l>
+               <l>And none appear'd of all that Raskall Rout:</l>
+               <l>To Arthegall he turnd, and went with him throughout.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
